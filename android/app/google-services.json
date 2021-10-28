@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109043421908",
+    "project_id": "coffeasy-4785b",
+    "storage_bucket": "coffeasy-4785b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109043421908:android:102ccdafd63a82f9f52141",
+        "android_client_info": {
+          "package_name": "com.fyp.coffeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109043421908-oo2528pcjanqatr92i3jgj3jrefuhua2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDodSx-qoqCXKob9E4UcemJI6c-ncx5GZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109043421908-oo2528pcjanqatr92i3jgj3jrefuhua2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
